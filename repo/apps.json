@@ -1,9 +1,9 @@
 ﻿{
   "paging": {
     "page": 1,
-    "count": 1,
+    "count": 2,
     "maxPage": 1,
-    "itemsTotal": 1
+    "itemsTotal": 2
   },
   "packages": [
     {
@@ -11,7 +11,15 @@
       "title": "LampaUa",
       "iconUri": "https://raw.githubusercontent.com/Hlushok/lampaua-webos/main/icon-512.png",
       "manifestUrl": "https://raw.githubusercontent.com/Hlushok/lampaua-webos/main/com.lampaua.tv.manifest.json",
-      "shortDescription": "LampaUa webOS wrapper",
+      "shortDescription": "LampaUa webOS app (modern TVs)",
+      "pool": "main"
+    },
+    {
+      "id": "com.lampaua.tv.legacy",
+      "title": "LampaUa (Legacy)",
+      "iconUri": "https://raw.githubusercontent.com/Hlushok/lampaua-webos/main/icon-512.png",
+      "manifestUrl": "https://raw.githubusercontent.com/Hlushok/lampaua-webos/main/com.lampaua.tv.legacy.manifest.json",
+      "shortDescription": "LampaUa for legacy webOS 3.x TVs",
       "pool": "main"
     }
   ]
