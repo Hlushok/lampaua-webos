@@ -1,8 +1,0 @@
-﻿title: Siaivo
-iconUri: https://raw.githubusercontent.com/Hlushok/lampaua-webos/main/icon-512.png
-manifestUrl: https://raw.githubusercontent.com/Hlushok/lampaua-webos/main/com.siaivo.tv.manifest.json
-category: media
-pool: main
-description: Siaivo clean webOS wrapper.
-funding:
-  github: [ Hlushok ]
