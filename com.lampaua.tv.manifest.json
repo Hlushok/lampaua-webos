@@ -1,14 +1,14 @@
 ﻿{
   "id": "com.lampaua.tv",
-  "version": "1.0.1",
+  "version": "1.1.0",
   "type": "web",
   "title": "LampaUa",
-  "appDescription": "LampaUa clean webOS wrapper",
+  "appDescription": "LampaUa webOS wrapper",
   "iconUri": "https://raw.githubusercontent.com/Hlushok/lampaua-webos/main/icon-512.png",
-  "sourceUrl": "https://siaivo.isroot.in/",
+  "sourceUrl": "http://lampaua.mooo.com",
   "rootRequired": false,
-  "ipkUrl": "https://github.com/Hlushok/lampaua-webos/releases/download/v1.0.1/lampaua.ipk",
+  "ipkUrl": "https://github.com/Hlushok/lampaua-webos/releases/download/v1.1.0/lampaua.ipk",
   "ipkHash": {
-    "sha256": "b9fb3da55409cac32a95ba6745b0cd603bac6d80411e7739d6eb9857b07df342"
+    "sha256": "bb6f22a238c279201bc83ac41b4c7e6c70c1499cbd44e9dc40459cd753651176"
   }
 }
