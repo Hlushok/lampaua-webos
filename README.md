@@ -10,6 +10,6 @@ This repository hosts release metadata for webOS Homebrew distribution.
 - lampaua.ipk - uploaded as GitHub Release asset
 
 ## Current release
-- Version: 1.1.0
-- Tag: v1.1.0
-- Start URL: http://lampaua.mooo.com
+- Version: 1.0.0
+- Tag: v1.0.0
+- SHA256: b747e8291fb585068daf45a781d93805177c927feaf414c42f1b41473c718879
