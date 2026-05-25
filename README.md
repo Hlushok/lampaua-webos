@@ -13,4 +13,5 @@ This repository hosts release metadata for webOS Homebrew distribution.
 
 ## Current releases
 - Modern: `v1.0.1` (`lampaua.ipk`)
-- Legacy: `v1.0.2` (`lampaua-legacy.ipk`)
+- Legacy: `v1.0.3` (`lampaua-legacy.ipk`, built with ares-package)
+

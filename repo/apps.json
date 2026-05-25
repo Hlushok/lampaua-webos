@@ -20,6 +20,9 @@
       "iconUri": "https://raw.githubusercontent.com/Hlushok/lampaua-webos/main/icon-512.png",
       "manifestUrl": "https://raw.githubusercontent.com/Hlushok/lampaua-webos/main/com.lampaua.tv.legacy.manifest.json",
       "shortDescription": "LampaUa for legacy webOS 3.x TVs",
+      "requirements": {
+        "webosRelease": "<=3.9"
+      },
       "pool": "main"
     }
   ]
