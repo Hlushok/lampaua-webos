@@ -1,14 +1,14 @@
-﻿# LampaUa webOS package
+﻿# Siaivo webOS package
 
 This repository hosts release metadata for webOS Homebrew distribution.
 
 ## Files
-- com.lampaua.tv.manifest.json - manifest for Homebrew repository
-- com.lampaua.tv.yml - app entry template for webosbrew/apps-repo
+- com.siaivo.tv.manifest.json - manifest for Homebrew repository
+- com.siaivo.tv.yml - app entry template for webosbrew/apps-repo
 - icon-512.png - app icon for catalog
-- lampaua.ipk - uploaded as GitHub Release asset
+- siaivo.ipk - uploaded as GitHub Release asset
 
 ## Current release
-- Version: 1.0.1
-- Tag: v1.0.1
+- Version: 1.0.2
+- Tag: v1.0.2
 - Type: clean webOS wrapper (external source: https://siaivo.isroot.in/)

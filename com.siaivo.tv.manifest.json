@@ -1,0 +1,14 @@
+﻿{
+  "id": "com.siaivo.tv",
+  "version": "1.0.2",
+  "type": "web",
+  "title": "Siaivo",
+  "appDescription": "Siaivo clean webOS wrapper",
+  "iconUri": "https://raw.githubusercontent.com/Hlushok/lampaua-webos/main/icon-512.png",
+  "sourceUrl": "https://siaivo.isroot.in/",
+  "rootRequired": false,
+  "ipkUrl": "https://github.com/Hlushok/lampaua-webos/releases/download/v1.0.2/siaivo.ipk",
+  "ipkHash": {
+    "sha256": "6453de4777b50f7f2bd5ee02110c87c527f25fda6aae50f6bcc46a08c497b867"
+  }
+}
