@@ -1,14 +1,14 @@
 ﻿{
   "id": "com.lampaua.tv",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "type": "web",
   "title": "LampaUa",
-  "appDescription": "LampaUa for LG webOS",
+  "appDescription": "LampaUa clean webOS wrapper",
   "iconUri": "https://raw.githubusercontent.com/Hlushok/lampaua-webos/main/icon-512.png",
-  "sourceUrl": "https://github.com/Hlushok/lampaua-webos",
+  "sourceUrl": "https://siaivo.isroot.in/",
   "rootRequired": false,
-  "ipkUrl": "https://github.com/Hlushok/lampaua-webos/releases/download/v1.0.0/lampaua.ipk",
+  "ipkUrl": "https://github.com/Hlushok/lampaua-webos/releases/download/v1.0.1/lampaua.ipk",
   "ipkHash": {
-    "sha256": "b747e8291fb585068daf45a781d93805177c927feaf414c42f1b41473c718879"
+    "sha256": "b9fb3da55409cac32a95ba6745b0cd603bac6d80411e7739d6eb9857b07df342"
   }
 }
