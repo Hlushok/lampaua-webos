@@ -1,13 +1,13 @@
 ﻿{
   "id": "com.lampaua.tv.legacy",
-  "version": "1.0.3",
+  "version": "1.0.1",
   "type": "web",
   "title": "LampaUa (Legacy)",
   "appDescription": "LampaUa for legacy LG webOS TVs (3.x)",
   "iconUri": "https://raw.githubusercontent.com/Hlushok/lampaua-webos/main/icon-512.png",
   "sourceUrl": "http://lampaua.mooo.com",
   "rootRequired": false,
-  "ipkUrl": "https://github.com/Hlushok/lampaua-webos/releases/download/v1.0.3/lampaua-legacy.ipk",
+  "ipkUrl": "https://github.com/Hlushok/lampaua-webos/releases/download/v1.0.1/lampaua-legacy.ipk",
   "ipkHash": {
     "sha256": "0e72a5dc349dfed6d760b3d015d8ec45945db13f7d28185835ac704111c03f6d"
   }
