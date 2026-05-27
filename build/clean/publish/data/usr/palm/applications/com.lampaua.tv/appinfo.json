@@ -1,0 +1,19 @@
+﻿{
+  "id": "com.lampaua.tv",
+  "version": "1.0.1",
+  "vendor": "Lampac",
+  "type": "web",
+  "main": "index.html",
+  "title": "LampaUa",
+  "icon": "icon.png",
+  "largeIcon": "largeIcon.png",
+  "iconColor": "#1d1f20",
+  "networkStableTimeout": 1,
+  "permissions": "all",
+  "requiredMemory": 20,
+  "requiredPermissions": [
+    "all"
+  ],
+  "supportGIP": true,
+  "disableBackHistoryAPI": true
+}

@@ -1,0 +1,14 @@
+{
+  "id": "com.siaivo.tv",
+  "version": "1.0.0",
+  "type": "web",
+  "title": "Siaivo",
+  "appDescription": "Siaivo for LG webOS (modern TVs)",
+  "iconUri": "https://raw.githubusercontent.com/Hlushok/lampaua-webos/main/icon-512.png",
+  "sourceUrl": "http://siaivo.isroot.in",
+  "rootRequired": false,
+  "ipkUrl": "https://github.com/Hlushok/lampaua-webos/releases/download/v1.0.1/siaivo.ipk",
+  "ipkHash": {
+    "sha256": "09850aee4a4075a8952e5cd69385ca68b4b6e4c608804a56834ea0919e1dcce1"
+  }
+}

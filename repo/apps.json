@@ -15,14 +15,11 @@
       "pool": "main"
     },
     {
-      "id": "com.lampaua.tv.legacy",
-      "title": "LampaUa (Legacy)",
+      "id": "com.siaivo.tv",
+      "title": "Siaivo",
       "iconUri": "https://raw.githubusercontent.com/Hlushok/lampaua-webos/main/icon-512.png",
-      "manifestUrl": "https://raw.githubusercontent.com/Hlushok/lampaua-webos/main/com.lampaua.tv.legacy.manifest.json",
-      "shortDescription": "LampaUa for legacy webOS 3.x TVs",
-      "requirements": {
-        "webosRelease": "<=3.9"
-      },
+      "manifestUrl": "https://raw.githubusercontent.com/Hlushok/lampaua-webos/main/com.siaivo.tv.manifest.json",
+      "shortDescription": "Siaivo for LG webOS TVs",
       "pool": "main"
     }
   ]

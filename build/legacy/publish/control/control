@@ -1,0 +1,10 @@
+Package: com.lampaua.tv.legacy
+Version: 1.0.1
+Section: misc
+Priority: optional
+Architecture: all
+Installed-Size: 14745
+Maintainer: Hlushok <stpuh2@gmail.com>
+Description: LampaUa legacy webOS application.
+webOS-Package-Format-Version: 2
+webOS-Packager-Version: x.y.x

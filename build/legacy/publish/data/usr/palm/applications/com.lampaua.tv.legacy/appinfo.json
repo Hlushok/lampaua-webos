@@ -1,0 +1,10 @@
+﻿{
+  "id": "com.lampaua.tv.legacy",
+  "version": "1.0.1",
+  "vendor": "LampaUa",
+  "type": "web",
+  "main": "index.html",
+  "title": "LampaUa (Legacy)",
+  "icon": "icon.png",
+  "largeIcon": "largeIcon.png"
+}
