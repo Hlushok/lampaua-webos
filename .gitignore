@@ -1,0 +1,4 @@
+﻿build/
+_tmp*
+_verify*
+*.bak

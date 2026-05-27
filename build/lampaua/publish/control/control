@@ -1,9 +1,0 @@
-Package: com.lampaua.tv
-Version: 1.1.0
-Section: misc
-Priority: optional
-Architecture: all
-Maintainer: Hlushok <stpuh2@gmail.com>
-Description: LampaUa webOS wrapper.
-webOS-Package-Format-Version: 2
-webOS-Packager-Version: x.y.x
