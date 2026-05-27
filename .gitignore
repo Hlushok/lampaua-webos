@@ -2,3 +2,8 @@
 _tmp*
 _verify*
 *.bak
+
+*.ipk
+_*.md
+_*.json
+_*.html
