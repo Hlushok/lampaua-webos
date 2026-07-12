@@ -1,0 +1,14 @@
+{
+  "id": "com.kinohub.tv",
+  "version": "1.0.0",
+  "type": "web",
+  "title": "KinoHub HTTPS",
+  "appDescription": "KinoHub HTTPS for newer LG webOS TVs. Use LampaUa if HTTPS does not work on an older TV.",
+  "iconUri": "https://raw.githubusercontent.com/Hlushok/lampaua-webos/main/icon-512.png",
+  "sourceUrl": "https://kinohub.uk",
+  "rootRequired": false,
+  "ipkUrl": "https://github.com/Hlushok/lampaua-webos/releases/download/v1.0.1/kinohub.ipk",
+  "ipkHash": {
+    "sha256": "e80f32f2f297d34a08e80a02447709c7fc5119e4fa9536434d6e688f8ff61614"
+  }
+}

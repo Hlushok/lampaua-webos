@@ -1,11 +1,19 @@
 {
   "paging": {
     "page": 1,
-    "count": 2,
+    "count": 3,
     "maxPage": 1,
-    "itemsTotal": 2
+    "itemsTotal": 3
   },
   "packages": [
+    {
+      "id": "com.kinohub.tv",
+      "title": "KinoHub HTTPS",
+      "iconUri": "https://raw.githubusercontent.com/Hlushok/lampaua-webos/main/icon-512.png",
+      "manifestUrl": "https://raw.githubusercontent.com/Hlushok/lampaua-webos/main/com.kinohub.tv.manifest.json",
+      "shortDescription": "HTTPS app for newer LG webOS TVs",
+      "pool": "main"
+    },
     {
       "id": "com.lampaua.tv",
       "title": "LampaUa",
